@@ -8,6 +8,9 @@
 *.out
 *.toc
 
+## xelatex auxiliary files:
+*.run.xml
+
 ## BibLaTeX auxiliary files:
 *.bbl
 *.bcf
@@ -16,7 +19,6 @@
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
-<<<<<<< HEAD
 
 ### Editor ###
 ## Vim & Emacs temp files:
